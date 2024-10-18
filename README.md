@@ -46,6 +46,7 @@ and ReportLab
 
   Next, provide the desired output PDF file name (e.g., result.pdf).
 
-                      ![{0400729A-0112-42E4-93A4-4FDB01470989}](https://github.com/user-attachments/assets/f47a39f8-d2fc-4318-835d-87c4a0169e36)
+![{0400729A-0112-42E4-93A4-4FDB01470989}](https://github.com/user-attachments/assets/62c562e1-2566-43c5-bcb9-6f49b95dd8c9)
+
 
 
