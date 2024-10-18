@@ -65,7 +65,7 @@ def write_pdf(vulnerabilities, output_file):
         story.append(Paragraph(message_info, styles['Normal']))
         story.append(Spacer(1, 12))  # Jarak antar kerentanan
 
-    # Footer (opsional)
+    # Footer 
     footer = Paragraph("Laporan ini dihasilkan oleh Bandit open source dan automation yang dimodifikasi oleh Benni Tampubolon", styles['Normal'])
     story.append(Spacer(1, 12))
     story.append(footer)
