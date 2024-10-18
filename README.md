@@ -12,19 +12,25 @@ This project is a tool for scanning vulnerabilities in source code using Semgrep
 Before running this project, ensure you have the following installed:
 - Python 3.x
 - Semgrep
+- ReportLab
 
 You can install Semgrep by running:
-    ```bash
-pip install semgrep or pipx install semgrep
+
+     pip install semgrep or pipx install semgrep
+
+and ReportLab 
+
+     pip3 install reportlab or apt install python3-reportlab
 
 ## Installation
 
 1. Clone this repository to your local machine using the following command:
+   
    ```bash
-    git clone https://github.com/bennitampz/Static-Application-Security-Testing-and-Automation
+   git clone https://github.com/bennitampz/Static-Application-Security-Testing-and-Automation
 
 
-2. Move into the cloned project folder:
+3. Move into the cloned project folder:
    ```bash
     cd Static-Application-Security-Testing-and-Automation
 
